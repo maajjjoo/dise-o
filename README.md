@@ -1,1 +1,1 @@
-<img width="1843" height="934" alt="Diagrama sin título drawio" src="https://github.com/user-attachments/assets/a35cf513-531e-433e-a809-a1303f1c5953" />
+<img width="1854" height="945" alt="Diagrama sin título drawio (4)" src="https://github.com/user-attachments/assets/b42cb169-51aa-48c4-bdf6-fefd97f65cb8" />
